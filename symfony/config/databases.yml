@@ -1,0 +1,15 @@
+all:
+  doctrine:
+    class: sfDoctrineDatabase
+    param:
+      dsn: 'mysql:host=localhost;port=8889;dbname=hrms'
+      username: hrmsadmin
+      password: admin123
+      attributes: { export: tables }
+test:
+  doctrine:
+    class: sfDoctrineDatabase
+    param:
+      dsn: 'mysql:host=localhost;port=8889;dbname=test_hrms'
+      username: hrmsadmin
+      password: admin123

@@ -1,0 +1,174 @@
+[04-Jan-2017 18:49:59 Europe/Berlin] PHP Notice:  Use of undefined constant php - assumed 'php' in /Applications/MAMP/htdocs/hrms/installer/registration.php on line 163
+[09-Jan-2017 11:38:29 Europe/Berlin] Empty module and/or action after parsing the URL "/webres_57eb84702e3066.16112222/themes/default/images/favicon.ico" (/).
+[09-Jan-2017 11:38:29 Europe/Berlin] PHP Fatal error:  Uncaught exception 'sfStopException' in /Applications/MAMP/htdocs/hrms/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php:96
+Stack trace:
+#0 /Applications/MAMP/htdocs/hrms/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php(55): sfBasicSecurityFilter->forwardToLoginAction()
+#1 /Applications/MAMP/htdocs/hrms/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfBasicSecurityFilter->execute(Object(sfFilterChain))
+#2 /Applications/MAMP/htdocs/hrms/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(995): sfFilterChain->execute()
+#3 /Applications/MAMP/htdocs/hrms/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(1031): sfRenderingFilter->execute(Object(sfFilterChain))
+#4 /Applications/MAMP/htdocs/hrms/symfony/cache/orangehrm/prod/config/config_core_compile.yml.php(665): sfFilterChain->execute()
+#5 /Applications/MAMP/htdocs/hrms/symfony/lib/vendor/symfony/lib/exception/sfError404Exception.class.php(49): sfController->forward('default in /Applications/MAMP/htdocs/hrms/symfony/lib/vendor/symfony/lib/filter/sfBasicSecurityFilter.class.php on line 96
+[09-Jan-2017 16:48:03 Europe/Berlin] Empty module and/or action after parsing the URL "/webres_57eb84702e3066.16112222/js/jquery/jquery.form" (/).
+[09-Jan-2017 16:48:24 Europe/Berlin] Empty module and/or action after parsing the URL "/webres_57eb84702e3066.16112222/js/jquery/jquery.form" (/).
+[09-Jan-2017 16:49:18 Europe/Berlin] Empty module and/or action after parsing the URL "/webres_57eb84702e3066.16112222/js/jquery/jquery.form" (/).
+[09-Jan-2017 16:49:52 Europe/Berlin] Empty module and/or action after parsing the URL "/webres_57eb84702e3066.16112222/js/jquery/jquery.form" (/).
+[09-Jan-2017 16:50:01 Europe/Berlin] Empty module and/or action after parsing the URL "/webres_57eb84702e3066.16112222/js/jquery/jquery.form" (/).
+[09-Jan-2017 16:50:22 Europe/Berlin] Empty module and/or action after parsing the URL "/webres_57eb84702e3066.16112222/js/jquery/jquery.form" (/).
+Mon Jan  9 17:04:10 2017,214 [11004] WARN filter.ohrmAuthorizationFilter - User does not have access read access to pim - viewMyDetails
+[09-Jan-2017 17:20:34 Europe/Berlin] Empty module and/or action after parsing the URL "/webres_57eb84702e3066.16112222/js/jquery/jquery.form" (/).
+[09-Jan-2017 17:20:43 Europe/Berlin] Empty module and/or action after parsing the URL "/webres_57eb84702e3066.16112222/orangehrmAdminPlugin/css/viewEducationSuccess.css" (/).
+[09-Jan-2017 18:25:21 Europe/Berlin] Empty module and/or action after parsing the URL "/webres_57eb84702e3066.16112222/orangehrmAdminPlugin/css/viewEducationSuccess.css" (/).
+Mon Jan  9 18:51:19 2017,722 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Mon Jan  9 18:51:19 2017,785 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Mon Jan  9 18:51:19 2017,802 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Mon Jan  9 18:51:19 2017,822 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Mon Jan  9 18:51:19 2017,843 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Mon Jan  9 18:51:19 2017,863 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Mon Jan  9 18:51:19 2017,920 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Mon Jan  9 18:51:19 2017,940 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Mon Jan  9 18:51:19 2017,958 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Mon Jan  9 18:51:19 2017,980 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Mon Jan  9 18:51:19 2017,999 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Mon Jan  9 19:15:58 2017,314 [14975] WARN core.email - Email configuration settings not available
+Tue Jan 10 10:06:53 2017,187 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:06:53 2017,225 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:06:53 2017,248 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:06:53 2017,265 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:06:53 2017,286 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:06:53 2017,340 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:06:53 2017,361 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:06:53 2017,379 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:06:53 2017,397 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:06:53 2017,417 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:06:53 2017,477 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:06:53 2017,497 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:06:53 2017,516 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:06:53 2017,536 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:06:53 2017,555 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:06:53 2017,616 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:06:53 2017,635 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:06:53 2017,654 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:06:53 2017,675 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:06:53 2017,696 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:06:53 2017,752 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:06:53 2017,773 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:06:53 2017,790 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:06:53 2017,808 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:06:53 2017,826 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:06:53 2017,883 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:06:53 2017,904 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:06:53 2017,923 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:06:53 2017,957 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:06:53 2017,976 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:06:54 2017,036 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:06:54 2017,053 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:06:54 2017,070 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:06:54 2017,093 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:06:54 2017,111 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:06:54 2017,172 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:06:54 2017,192 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:06:54 2017,209 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:06:54 2017,231 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:06:54 2017,250 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:06:54 2017,310 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:06:54 2017,331 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:06:54 2017,348 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:06:54 2017,366 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:08:32 2017,165 [15295] WARN core.email - Email configuration settings not available
+Tue Jan 10 10:08:32 2017,827 [15002] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:08:32 2017,849 [15002] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:08:32 2017,868 [15002] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:08:32 2017,888 [15002] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:08:32 2017,909 [15002] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:08:32 2017,969 [15002] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:08:32 2017,992 [15002] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:08:33 2017,013 [15002] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:08:33 2017,033 [15002] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:08:33 2017,056 [15002] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:08:33 2017,116 [15002] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:08:33 2017,136 [15002] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:08:33 2017,157 [15002] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:08:33 2017,181 [15002] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:08:33 2017,200 [15002] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:08:33 2017,260 [15002] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:08:33 2017,285 [15002] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:08:33 2017,304 [15002] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:08:33 2017,325 [15002] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:08:33 2017,343 [15002] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:08:33 2017,402 [15002] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:08:33 2017,424 [15002] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:08:33 2017,444 [15002] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:08:33 2017,466 [15002] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:08:33 2017,485 [15002] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:08:33 2017,539 [15002] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:08:33 2017,558 [15002] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:08:33 2017,577 [15002] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:08:33 2017,608 [15002] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:08:33 2017,626 [15002] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:08:33 2017,680 [15002] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:08:33 2017,701 [15002] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:08:33 2017,720 [15002] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:08:33 2017,741 [15002] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:08:33 2017,759 [15002] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:08:33 2017,814 [15002] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:08:33 2017,833 [15002] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:08:33 2017,853 [15002] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:08:33 2017,875 [15002] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:08:33 2017,896 [15002] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:08:34 2017,027 [15002] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:08:34 2017,049 [15002] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:08:34 2017,069 [15002] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:08:34 2017,094 [15002] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:31:38 2017,406 [14696] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:31:38 2017,428 [14696] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:31:38 2017,448 [14696] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:31:38 2017,468 [14696] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:31:38 2017,491 [14696] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:31:38 2017,552 [14696] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:31:38 2017,571 [14696] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:31:38 2017,592 [14696] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:31:38 2017,614 [14696] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:31:38 2017,637 [14696] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:31:38 2017,703 [14696] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:31:38 2017,725 [14696] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:31:38 2017,744 [14696] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:31:38 2017,770 [14696] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:31:38 2017,792 [14696] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:31:59 2017,959 [14676] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:31:59 2017,982 [14676] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:32:00 2017,004 [14676] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:32:00 2017,027 [14676] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:32:00 2017,052 [14676] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:32:00 2017,118 [14676] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:32:00 2017,141 [14676] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:32:26 2017,251 [11030] WARN core.email - Email configuration settings not available
+Tue Jan 10 10:32:26 2017,940 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:32:26 2017,965 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:32:26 2017,989 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:32:27 2017,014 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:32:27 2017,036 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:32:27 2017,104 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Tue Jan 10 10:32:27 2017,128 [16034] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+[10-Jan-2017 12:29:19 Europe/Berlin] Empty module and/or action after parsing the URL "/webres_57eb84702e3066.16112222/orangehrmAdminPlugin/css/viewEducationSuccess.css" (/).
+[10-Jan-2017 12:31:22 Europe/Berlin] Empty module and/or action after parsing the URL "/webres_57eb84702e3066.16112222/orangehrmAdminPlugin/css/viewEducationSuccess.css" (/).
+[10-Jan-2017 12:34:16 Europe/Berlin] Empty module and/or action after parsing the URL "/webres_57eb84702e3066.16112222/orangehrmAdminPlugin/css/viewEducationSuccess.css" (/).
+[10-Jan-2017 12:34:35 Europe/Berlin] Empty module and/or action after parsing the URL "/webres_57eb84702e3066.16112222/orangehrmAdminPlugin/css/viewEducationSuccess.css" (/).
+[10-Jan-2017 12:34:51 Europe/Berlin] Empty module and/or action after parsing the URL "/webres_57eb84702e3066.16112222/orangehrmAdminPlugin/css/viewEducationSuccess.css" (/).
+[10-Jan-2017 12:35:19 Europe/Berlin] Empty module and/or action after parsing the URL "/webres_57eb84702e3066.16112222/orangehrmAdminPlugin/css/viewEducationSuccess.css" (/).
+[10-Jan-2017 12:35:45 Europe/Berlin] Empty module and/or action after parsing the URL "/webres_57eb84702e3066.16112222/orangehrmAdminPlugin/css/viewEducationSuccess.css" (/).
+[11-Jan-2017 12:10:39 Europe/Berlin] Empty module and/or action after parsing the URL "/webres_57eb84702e3066.16112222/js/jquery/jquery.form" (/).
+[11-Jan-2017 12:10:52 Europe/Berlin] Empty module and/or action after parsing the URL "/webres_57eb84702e3066.16112222/js/jquery/jquery.form" (/).
+[11-Jan-2017 12:11:23 Europe/Berlin] Empty module and/or action after parsing the URL "/webres_57eb84702e3066.16112222/js/jquery/jquery.form" (/).
+[11-Jan-2017 12:11:36 Europe/Berlin] Empty module and/or action after parsing the URL "/webres_57eb84702e3066.16112222/js/jquery/jquery.form" (/).
+[11-Jan-2017 12:21:17 Europe/Berlin] Empty module and/or action after parsing the URL "/webres_57eb84702e3066.16112222/orangehrmAdminPlugin/css/viewEducationSuccess.css" (/).
+Wed Jan 11 12:47:24 2017,792 [9020] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Wed Jan 11 12:47:24 2017,814 [9020] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Wed Jan 11 12:47:24 2017,864 [9020] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Wed Jan 11 12:47:24 2017,881 [9020] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Wed Jan 11 12:47:24 2017,898 [9020] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Wed Jan 11 12:47:36 2017,011 [10360] WARN core.email - Email configuration settings not available
+Wed Jan 11 12:47:36 2017,844 [10360] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Wed Jan 11 12:47:36 2017,867 [10360] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Wed Jan 11 12:47:36 2017,925 [10360] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Wed Jan 11 12:47:36 2017,942 [10360] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+Wed Jan 11 12:47:36 2017,961 [10360] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!

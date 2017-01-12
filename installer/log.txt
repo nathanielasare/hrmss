@@ -1,0 +1,48 @@
+Client Info
+
+User Agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.98 Safari/537.36
+Remote Address : ::1
+
+Server Info
+
+Host : localhost:8888
+PHP Version : 5.6.10
+Server : Apache/2.2.29 (Unix) mod_wsgi/3.5 Python/2.7.10 PHP/5.6.10 mod_ssl/2.2.29 OpenSSL/0.9.8zg DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.22.0
+Admin : you@example.com
+
+Document Root : /Applications/MAMP/htdocs
+ROOT_PATH : /Applications/MAMP/htdocs/hrms
+
+OrangeHRM Installation Log
+
+Wed, 04 Jan 2017 18:48:36 +0100 DB Creation - Starting
+Wed, 04 Jan 2017 18:48:36 +0100 DB Creation - Done
+Wed, 04 Jan 2017 18:48:36 +0100 DB Creation - No Errors
+Wed, 04 Jan 2017 18:48:38 +0100 Fill Data Phase 1 - Starting
+Wed, 04 Jan 2017 18:48:38 +0100 Fill Data Phase 1 - Connected to the DB Server
+Wed, 04 Jan 2017 18:48:38 +0100 Fill Data Phase 1 - Selected the DB
+Wed, 04 Jan 2017 18:48:38 +0100 Fill Data Phase 1 - Reading DB Script
+Wed, 04 Jan 2017 18:48:38 +0100 Fill Data Phase 1 - Opened DB Script
+Wed, 04 Jan 2017 18:48:38 +0100 Fill Data Phase 1 - Read DB script
+Wed, 04 Jan 2017 18:48:38 +0100 Fill Data Phase 1 - There are 284 Statements in the DB script
+Wed, 04 Jan 2017 18:49:42 +0100 Fill Data Phase 1 - Done
+Wed, 04 Jan 2017 18:49:42 +0100 Fill Data Phase 1 - No Errors
+Wed, 04 Jan 2017 18:49:44 +0100 Fill Data Phase 2 - Starting
+Wed, 04 Jan 2017 18:49:44 +0100 Fill Data Phase 2 - Connected to the DB Server
+Wed, 04 Jan 2017 18:49:45 +0100 Fill Data Phase 2 - Selected the DB
+Wed, 04 Jan 2017 18:49:45 +0100 Fill Data Phase 2 - Reading DB Script
+Wed, 04 Jan 2017 18:49:45 +0100 Fill Data Phase 2 - Opened DB Script
+Wed, 04 Jan 2017 18:49:45 +0100 Fill Data Phase 2 - Read DB script
+Wed, 04 Jan 2017 18:49:45 +0100 Fill Data Phase 2 - There are 127 Statements in the DB script
+Wed, 04 Jan 2017 18:49:46 +0100 Fill Data Phase 1 - Connected to the DB Server
+Wed, 04 Jan 2017 18:49:46 +0100 Fill Data Phase 2 - Done
+Wed, 04 Jan 2017 18:49:46 +0100 Fill Data Phase 2 - No Errors
+Wed, 04 Jan 2017 18:49:48 +0100 Create DB user - Starting
+Wed, 04 Jan 2017 18:49:48 +0100 Create DB user - Done
+Wed, 04 Jan 2017 18:49:48 +0100 Create DB user - No Errors
+Wed, 04 Jan 2017 18:49:50 +0100 Create OrangeHRM user - Starting
+Wed, 04 Jan 2017 18:49:51 +0100 Create OrangeHRM user - Done
+Wed, 04 Jan 2017 18:49:51 +0100 Create OrangeHRM user - No Errors
+Wed, 04 Jan 2017 18:49:53 +0100 Write Conf - Starting
+Wed, 04 Jan 2017 18:49:53 +0100 Write Conf - Done
+Wed, 04 Jan 2017 18:49:53 +0100 Write Conf - No Errors
